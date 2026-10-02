@@ -1,129 +1,165 @@
-<h1 align="center">Hi, I'm Krithika H 👋</h1>
+# HI, I'M KRITHIKA H
 
-<p align="center">
-  <b>Information Technology Student | AI & Cybersecurity Enthusiast</b>
-</p>
+### INFORMATION TECHNOLOGY STUDENT
 
-<p align="center">
-  Building practical solutions with Artificial Intelligence, NLP and Cybersecurity.
-</p>
+AI & NLP · CYBERSECURITY · EMERGING TECHNOLOGIES
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-</p>
+I'm a third-year Information Technology student interested in building practical solutions using AI, NLP, cybersecurity, and emerging technologies.
+
+I enjoy working on projects, exploring new technologies, participating in hackathons, and presenting technical ideas.
 
 ---
 
-## 👩‍💻 About Me
+## ABOUT
 
-I'm a third-year Information Technology student interested in building
-practical solutions using Artificial Intelligence, NLP and Cybersecurity.
+I like working at the intersection of technology, problem solving, and innovation — from developing AI and NLP based projects to exploring cybersecurity and intelligent software solutions.
 
-I enjoy learning by building projects, exploring new technologies,
-and participating in hackathons, technical competitions and paper presentations.
-
-I'm continuously improving my technical skills and looking for opportunities
-to learn, contribute and work on meaningful real-world projects.
+Currently pursuing Information Technology and continuously building my technical skills through projects, competitions, research, and hands-on learning.
 
 ---
 
-## 🚀 Currently Building
+## CURRENTLY BUILDING
 
-### 🛡️ AI-Powered Email Threat Detection, Geolocation & Forensic Intelligence Platform
+**AI-Powered Email Threat Detection, Geolocation & Forensic Intelligence Platform**
 
-An AI-powered cybersecurity platform focused on analyzing suspicious emails,
-identifying threat indicators, extracting geolocation intelligence and
-supporting digital forensic analysis.
+An ongoing project focused on email threat detection, geolocation analysis, and forensic intelligence.
 
-**Status:** 🚧 In Progress
+**Arivoli AI**
 
----
-
-### 🤖 Arivoli AI
-
-An AI-based career aspiration and skill-matching platform designed to help
-users explore career paths, identify relevant skills and discover
-personalized learning roadmaps.
-
-**Status:** 🚧 In Progress
+An AI-based career aspiration and skill matching platform designed to help students explore career paths, skills, and learning roadmaps.
 
 ---
 
-## ✅ Completed Project
+## SELECTED WORK
 
-### 📚 Course Similarity Detection using Word Mover's Distance with NLP
+### Course Similarity Detection using Word Mover's Distance with NLP
 
-An NLP-based project that analyzes and detects similarity between courses
-using **Word Mover's Distance** and semantic similarity techniques.
+**Team Project · 3 Members · Completed**
 
-**Status:** ✅ Completed
+Developed a course similarity detection system using Natural Language Processing techniques to identify similarities between courses.
 
-**Focus:** Natural Language Processing · Semantic Similarity
+**Focus:** NLP · Word Embeddings · Word Mover's Distance · Similarity Detection · Cloud Computing
+
+**Achievement:** Innovation Excellence Award 2025
 
 ---
 
-## 🛠️ Skills & Technologies
+### AI-Powered Email Threat Detection, Geolocation & Forensic Intelligence Platform
+
+**In Progress**
+
+Exploring AI-driven approaches for email threat detection, geolocation analysis, and digital forensic intelligence.
+
+**Focus:** Cybersecurity · Threat Detection · Digital Forensics · AI
+
+---
+
+### Arivoli AI – Career Aspiration & Skill Matching Platform
+
+**In Progress**
+
+An AI-powered platform designed to help students discover suitable career paths, skills, and learning roadmaps.
+
+**Focus:** AI · Career Guidance · Skill Matching
+
+---
+
+## MY TOOLKIT
 
 ### Programming
-`Python` `C` `SQL`
 
-### Areas of Interest
-`Artificial Intelligence` · `NLP` · `Cybersecurity` ·
-`Threat Intelligence` · `Software Development`
+Python · C · SQL
 
-### Tools
-`Git` `GitHub`
+### Technologies & Areas
 
----
+Artificial Intelligence · Natural Language Processing · Cybersecurity · Threat Intelligence · Data Analysis · Software Development
 
-## 🎯 Currently Learning
+### Currently Learning
 
-- 🔐 Cybersecurity fundamentals
-- 🌐 Networking and security concepts
-- 🤖 Artificial Intelligence & NLP
-- 🐍 Python development
-- 💻 Software development practices
-- 🚀 Building real-world projects
+Data Structures & Algorithms · Computer Networks · AI/ML · Cybersecurity · Git & GitHub
 
 ---
 
-## 📂 Projects
+## RESEARCH & HACKATHONS
 
-| Project | Domain | Status |
-|---|---|---|
-| **Course Similarity Detection using WMD** | NLP / AI | ✅ Completed |
-| **AI-Powered Email Threat Detection** | AI / Cybersecurity | 🚧 In Progress |
-| **Arivoli AI** | AI / Career Technology | 🚧 In Progress |
+### REVIL'26 – National Level Technical Symposium
 
----
+**Paper Presentation**
 
-## 🏆 Activities
+**AI Agents as Emerging Security Liabilities in Autonomous Software Systems**
 
-- 🧑‍💻 Hackathons
-- 💡 Technical Project Competitions
-- 📑 Paper Presentations
-- 🚀 Innovation & Project Development
+Presented a technical paper exploring security concerns associated with AI agents in autonomous software systems.
 
----
+### INIT-HACK 2.0 – Technothon 2026
 
-## 🤝 Connect With Me
+Hackathon Participant
 
-<p>
-  <a href="https://github.com/krithikahx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/krithika-h-bab97b376/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:krithikah18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### Smart India Hackathon 2026
+
+Participant
+
+### Solution Challenge 2026: Build with AI
+
+Prototype Submission
+
+### QuizOff 2026
+
+AI Quiz Participant
 
 ---
 
-<p align="center">
-  <b>Learn • Build • Improve • Repeat 🚀</b>
-</p>
+## CERTIFICATIONS
+
+**Infosys Springboard**  
+Python Data Structures and Algorithms
+
+**TCS iON**  
+Career Edge: IT Primer
+
+**IBM**  
+Data Analysis with Python
+
+**Bharat Sevak Samaj**  
+Computer Python Programming
+
+---
+
+## MY JOURNEY
+
+Third-year Information Technology student
+
+Building practical AI, NLP and cybersecurity projects
+
+Participating in hackathons and technical competitions
+
+Exploring research and emerging technologies
+
+Continuously learning through projects and certifications
+
+---
+
+## STILL LEARNING
+
+AI & Machine Learning  
+Natural Language Processing  
+Cybersecurity  
+Data Structures & Algorithms  
+Software Development  
+Emerging Technologies
+
+---
+
+## LET'S CONNECT
+
+**LinkedIn**  
+https://www.linkedin.com/in/krithika-h-bab97b376/
+
+**Email**  
+krithikah18@gmail.com
+
+**GitHub**  
+https://github.com/krithikahx
+
+---
+
+### KEEP LEARNING. KEEP BUILDING. KEEP EXPLORING.
